@@ -1,24 +1,33 @@
-# README
+View client-side repo [here](https://github.com/rsabur/heirbnb-client).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# HeirBnb
 
-Things you may want to cover:
+A web app for the lux traveler in mind. Users can browse available luxury listings by name, view their description, book an upcoming stay and add a review for their stays. A user can also delete a booking and a review.  
+_______________________________________________________________________________________
+## Key Technologies, Packages, and Gems
 
-* Ruby version
+* Frontend
+    * JavaScript
+    * Bootstrap-UI
+    * Custom HTML
+    * Custom stylesheet (CSS)
+    * MapBox API 
 
-* System dependencies
+* Backend
+    * Rails 5 API
+    * PostgresQL database
+    * Faker Gem
 
-* Configuration
+## Core Features
+* A user can login using their name
+* A user can browse available listings, current/past bookings and reviews
+* Bookings can be added and deleted
+* User can create and delete a review
 
-* Database creation
+## Start App
+Start HeirBnb's server using:
+* npm start
+_______________________________________________________________________________________
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Demo
+[![mystyle demo](https://i.imgur.com/cUS2Kjc.png)](https://youtu.be/em0mnxZD4Gk "HeirBnb Demo - Click to Watch!")
